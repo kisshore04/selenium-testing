@@ -4,3 +4,6 @@
 [submodule "another-submodule-eg"]
 	path = another-submodule-eg
 	url = https://github.com/kisshore04/another-submodule-eg.git
+[submodule "special_._submodule._.repo"]
+	path = special_._submodule._.repo
+	url = https://github.com/kisshore04/special_._submodule._.repo.git
