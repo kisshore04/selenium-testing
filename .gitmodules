@@ -1,0 +1,3 @@
+[submodule "submodule-example-repo"]
+	path = submodule-example-repo
+	url = https://github.com/kisshore04/submodule-example-repo.git
